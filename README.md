@@ -383,7 +383,7 @@ Please ensure your code follows the existing project structure and coding style.
 
 **Armaan Mulani**
 
-Email: your-email@example.com
+Email: armaan.mulani@outlook.com
 
 GitHub: https://github.com/armaanmulani
 
