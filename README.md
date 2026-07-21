@@ -1,4 +1,4 @@
-# <a href="https://wanderlust-armaan.vercel.app/listings">WanderLust</a>
+# <a href="https://wanderlust-armaan.vercel.app/listings">Wanderlust</a>
 
 > **A full-stack Airbnb-inspired vacation rental platform where users can discover, list, review, and manage unique stays with secure authentication, interactive maps, and image uploads.**
 
@@ -211,13 +211,13 @@ Make sure you have the following installed:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/armaanmulani/wanderLust.git
+git clone https://github.com/armaanmulani/wanderlust.git
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd wanderLust
+cd wanderlust
 ```
 
 3. Install dependencies
